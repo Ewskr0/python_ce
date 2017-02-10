@@ -3,8 +3,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
-usr_name = input('User name :')
-usr_pss =  getpass.getpass('User password :')
+usr_name = 'ewann.villa@epita.fr' #input('User name :')
+usr_pss =  '123.Banane' #getpass.getpass('User password :')
 webpage = "https://www.projet-voltaire.fr/"
 
 driver = webdriver.Firefox()
