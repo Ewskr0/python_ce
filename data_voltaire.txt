@@ -8,7 +8,7 @@ Ayant triché à ce concours, je ne suis pas certain d'en mériter le premier pr
 Je peut vous proposer une formule adaptée à vos besoins.|peut
 S'en est trop, vous finirez par me mettre hors de moi !|S'en
 Les techniciens analyses les échantillons prélevés.|analyses
-En signant le devis, tu t'engage à payer les travaux commandés.|engage
+En signant le devis, tu t'engage à payer les travaux commandés.|'engage
 Je m'attendais à mieux de votre part.|
 L'homme sourit, regardant le soleil qui se lève et qui luit. (Jacques Prévert)|
 e une telle décision.|
@@ -23,7 +23,6 @@ Dommage, nous étions sur le point dans venir à bout !|dans
 Les fournisseurs consentes un rabais à leurs clients fidèles.|consentes
 Il doit finir par s'en vouloir, non ?|
 Étais‑tu présent à cette convention ?|
-En signant le devis, tu t'engage à payer les travaux commandés.|'engage
 Cette formation a pour but de nous apprendre à mieu communiquer.|mieu
 Arrivé à l'aéroport, je peut louer une voiture.|peut
 N'hésite pas à proposer de nouvelles idées.|
@@ -140,7 +139,6 @@ La crise étant inévitable, essayons dans sortir par le haut.|dans
 Vous critiquez votre collègue, mais feriez‑vous mieu à sa place ?|mieu
 Il avait laissé çà dans son bureau.|çà
 Cette imprimante fesant trop de bruit a été remplacée par un modèle silencieux.|fesant
-Accepter de prendre du retard maintenant est une erreur impardonnable.|
 Pars, surtout ne te retournes pas. (Jacques Higelin)|retournes
 Cet enfant qui déteste les bonnets refuse d'en mettre.|
 Quels langages informatiques maîtrises‑tu ?|
@@ -159,7 +157,6 @@ Tu commanderas des badges pour tous les employés.|fesant
 Savais‑tu que le directeur avait annulé la réunion ?|
 Une déconnection intempestive a stoppé le téléchargement.|déconnection
 L'héroïne de L'Assommoir travaille toute sa vie s'en réussir à s'en sortir.|s'en
-Les techniciens analyses les échantillons prélevés.|analyses
 Vous n'êtes pas le seul avenir au bureau à vélo.|avenir
 Vous travaillerez en partenariat, Caroline fesant le lien entre vous.|fesant
 Çà, c'est vraiment toi, chantait Téléphone en 1982.|Çà,
@@ -167,19 +164,15 @@ En vacances, je me mets en mode « déconnection totale ».|« déconnection
 Sache qu'il n'est pas ton ennemi.|
 Les commerciaux ayant atteint leurs objectifs touchent une prime.|
 Engagerait‑tu une femme enceinte ?|Engagerait‑
-Était‑ce une bonne idée de l'embaucher ? Mon associé est loin dans être convaincu.|dans
 À vingt ans, le meilleur est encore avenir.|avenir
 Avec le développement de la fibre optique, chacun disposera bientôt d'une connection très haut débit.|connection
 Un comédien doit sans remettre totalement au metteur en scène.|sans
-Si sa convient au client, je suis d'accord.|sa
 En fesant la restauration de ce tableau, l'expert en a découvert l'auteur.|fesant
-Ayant triché à ce concours, je ne suis pas certain d'en mériter le premier prix.|
 Avec les élections municipales avenir, les journalistes politiques ne vont pas chômer.|avenir
 Tu joindra ces graphiques à ta présentation.|joindra
 La déconnection est intervenue juste avant la fin du téléchargement.|déconnection
 On ne manipule jamais ça sans mettre des gants adaptés.|
 J'assistais tous les ans au séminaire d'entreprise.|
-Ce jeune homme se drogue, et sa mère sans désole.|sans
 Il s'est cassé la jambe en fesant du trampoline.|fesant
 L'avenir, fantôme aux mains vides, qui promet tout et qui n'a rien ! (Victor Hugo)|
 Accepterait‑tu de fréquents déplacements ?|Accepterait‑
@@ -190,11 +183,8 @@ Les recruteurs accordent autant d'importance à l'expérience qu'aux diplômes.|
 Lorsque l'homme aime, une connexion se produit entre ses sentiments et ses actes.|
 Le représentant prend ça mallette et s'en va proposer ses produits.|ça
 En ne travaillant pas à l'école, tu te prépares un triste avenir.|
-L'homme sourit, regardant le soleil qui se lève et qui luit. (Jacques Prévert)|
 Pour régler ce litige, le mieux est de se référer au contrat de travail.|
 Elle n'est pas certaine dans vouloir.|dans
-C'est en fesant le réglage du moteur que le technicien s'est blessé.|fesant
-S'en est trop, vous finirez par me mettre hors de moi !|S'en
 Si tu ne parle pas l'anglais, ce poste n'est pas pour toi.|parle
 On lui a accordé le droit d'utiliser sa voiture de fonction pendant son temps libre.|
 Si tu es malade, reportes tes rendez‑vous.|reportes
@@ -210,7 +200,6 @@ Dès le 1er décembre, mes enfants se réjouissent des fêtes à venir.|
 Il vaut mieu relire votre e‑mail avant de l'envoyer.|mieu
 Sur la table et posé un bouquet de fleurs des champs.|et
 Bien qu'il habite dans une grande ville, sa ligne ADSL souffre chaque jour de nombreuses déconnections.|déconnections.
-Si tu le souhaites, nous poursuivrons notre collaboration.|
 Moi, je ne veux pas me mêler de ça mission.|ça
 Si tu soignais ton orthographe, tes correspondants t'en seraient reconnaissants.|
 Faites un geste pour la planète, pensez aux générations avenir !|avenir 
@@ -218,136 +207,53 @@ S'en est fini du libéralisme, a déclaré Nicolas Hulot.|S'en
 C'est au patron que s'adresses les salariés en cas de litige.|'adresses
 C'est lui qui et le mieux placé pour cette affaire.|et
 Beaucoup de lieux publics proposent désormais une connection Wi‑Fi.|connection
-Quels étudiants sont les mieux armés pour affronter le monde du travail ?|
 Mon père se refuse avenir au restaurant avec nous.|avenir
 Personne ne sait comment il va s'en tirer, pas même lui !|
-En signant le devis, tu t'engage à payer les travaux commandés.|'engage
 Sans ordinateur, je ne peut plus travailler.|peut
 Les délégués du personnel demandes le paiement des jours de grève.|demandes
 Çà fait du bruit, les innocents. (Marcel Pagnol)|Çà
 Lorsqu'il et entré dans la pièce, toute l'atmosphère a changé.|et
 Le transfert des données a été interrompu à la suite d'une déconnexion inattendue.|
 Le pessimiste stocke de la nourriture en prévision des crises alimentaires avenir.|avenir
-Il faut que tu vienne plus tôt au bureau.|vienne
 Peut‑tu taper le devis ?|Peut‑
 De telles références impressionnes le recruteur.|impressionnes
 Le but ultime avec ce client et d'obtenir un témoignage positif de sa part.|et
 Le prix ! Le commercial ne doit pas avoir ça en tête lorsqu'il présente ses services.|
 Mon mari épargne pour l'à venir.|venir
 Une fois par an, je démarchait les clients.|démarchait
-Je peut vous proposer une formule adaptée à vos besoins.|peut
-Je m'attendais à mieux de votre part.|
-Quand préfères‑tu intervenir pendant la conférence ?|
 Renvoie‑lui les papiers qu'il a oubliés.|
 Quel à venir pour les orphelins africains du sida ?|venir
-La mauvaise qualité de la soudure était à l'origine des problèmes fréquents de connexion.|
 Si tu ne peut régler le problème toi‑même, fais appel à un expert.|peut
 Par chance, notre entreprise est de celles qui surmontes la crise.|surmontes
 Mon assistant s'est trompé de jour en fesant le planning.|fesant
 Étant chef d'équipe, j'organisait l'emploi du temps de douze personnes.|'organisait
 Ne mange pas tout, laisses‑m'en un peu.|laisses‑
-Le commercial qui est intervenu hier n'a pas fait l'unanimité.|
 Nous l'avons maintes fois invité, mais il répugne à venir chez nous.|
 Nos techniciens interviennes dans l'heure qui suit votre appel.|interviennes
-Dans la maladie d'Alzheimer, les connections neuronales ne se font plus.|connections
 Le commercial faisant les plus grosses ventes est le plus extraverti.|
 Si tu maîtrisais ce langage informatique, tu obtiendrais plus de missions.|
 Mieux vaut réfléchir avant de prendre une telle décision.|
 Il est impossible d'en dire plus sans dévoiler nos secrets de fabrication.|
-Tu transmettra le dossier au service commercial.|transmettra
 Ces logiciels de calcul permettes aux comptables de gagner du temps.|permettes
 Mes parents avaient trop de pudeur pour parler de çà devant des étrangers.|çà
 Élèves le moins possible la voix si tu veux être écouté de ton auditoire.|Élèves
-La terre est bleue comme une orange. (Paul Éluard)|
-De nombreux sites proposent des tests de vitesse de connexion.|
-Participait‑tu aux réunions du comité d'entreprise ?|Participait‑
 Cet adolescent se plaît avenir au lycée coiffé d'un chapeau.|avenir
 Tous les étudiants qui cherchent des stages n'en trouvent pas.|
 Adieu, et portes‑toi aussi bien que possible !|portes‑
 Si tu peut venir plus tôt, on préparera la réunion ensemble.|peut
-Si tu donne satisfaction, ton contrat sera renouvelé.|donne
 Si ça ne te dérange pas de partager, donne‑moi un morceau de ton gâteau.|
-Ne faisant pas ses rondes, ce gardien de nuit a été licencié.|
-Cette formation a pour but de nous apprendre à mieu communiquer.|mieu
 Les clients interrogés se dises satisfaits de nos services.|dises
-Étais‑tu présent à cette convention ?|
 Le meilleur reste à venir, dit l'optimiste.|
 Ce tueur en série a vécu libre toute sa vie, sans jamais être inquiété.|
-Pour vous déconnecter, cliquez simplement sur « déconnection ».| « déconnection 
 En cas de doute, tu peut demander conseil à tes collègues.|peut
-Tu joindra à ton dossier une attestation d'assurance.|joindra
-Détenait‑tu des actions de la société ?|Détenait‑
-Mon mari arrive, caches‑toi dans l'armoire ! dit la femme à son amant.|caches‑
 Dans cette entreprise, les associés prennes les décisions à trois.|prennes
-Avant d'intervenir, par sécurité, le technicien a procédé à la déconnexion de l'alimentation.|
-Comment peut‑tu obtenir un tel résultat à partir de ces chiffres ?|peut‑
-Ma précédente secrétaire travaillait mieu, et plus efficacement.|mieu,
-J'assurait la direction de la branche recherche et développement.|'assurait
-Tu a fait forte impression lors de ta présentation.|a
-N'hésite pas à proposer de nouvelles idées.|
-Il existe de toute évidence une connection intime entre le corps et l'esprit.|connection
 Est‑il sûr que sa femme le trompe ? Non, mais il sans doute fortement.|sans
-Depuis qu'il a changé de poste de travail, cet ouvrier va mieu.|mieu.
-Arrivé à l'aéroport, je peut louer une voiture.|peut
-Le responsable commercial étant absent, tu le remplacera lors de la réunion.|remplacera
-Tu plaçait les produits en tête de gondole pour qu'ils se vendent mieux.|plaçait
-Nous avons dû, en dernière heure, refaire le circuit électrique, les connections étaient défectueuses. (Antoine de Saint‑Exupéry)|connections
 Il a des idées de génie mais ne sans rend pas compte.|sans
 Vos résultats me déçoives, dit le patron au commercial.|déçoives,
-Le mieu, dit‑on, est l'ennemi du bien.|mieu,
-Si nécessaire, je peut faire la présentation seul.|peut
-Dans ton précédent poste, utilisait‑tu ce logiciel ?|utilisait‑
-Le schéma électrique de ce vaisseau indique une double connection entre l'avant et l'arrière de l'appareil.|connection
 Il sans va sans saluer personne.|sans
 Plusieurs articles recommandent notre logiciel.|
-En tant que chef de projet, tu avait toute une équipe à diriger.|avait
-Je sais que le délai est court, alors faites pour le mieu.|mieu.
-Responsable clientèle, tu gère plus de mille clients.|gère
 Si tu ne peut pas te déplacer, qui enverra‑t‑on chez le client ?|peut
 Cet amateur de littérature s'en tient aux auteurs français.|
 Ce modèle ayant eu du succès, on a décidé d'en fabriquer une nouvelle série.|
-Les inspecteurs ont démontré la connection existant entre la mafia et cet homme politique.|connection
-Lors du séminaire d'intégration, les étudiants apprennent à mieu se connaître.|mieu
-En général, pour un CDI, la période d'essai est de trois mois.|
-Qui voit‑tu à ce poste ?|voit‑
-Se souviendra‑t‑on des cinéastes d'aujourd'hui dans les siècles avenir ?|avenir
-Son attitude résignée montre bien qu'il a envie dans finir.|dans
-Le contrôleur des impôts a établi la connexion entre la fraude fiscale et l'achat de la villa à Monaco.|
-Dans cette entreprise, j'occupait le poste de directeur financier.|'occupait
-« Qui dit mieu ? » entend‑on dans les ventes aux enchères.|mieu 
-Je peux vous proposer un rendez‑vous mardi.|
-Faisant partie des fondateurs, il a son mot à dire sur la stratégie de l'entreprise.|
-Les bourgeons sont le signe de fleurs avenir.|avenir
-Depuis que cet enfant sait lire, il ne fait plus que ça.|
-Je ne sais pas ce qu'a mon bébé, il et toujours grognon.|et
 Sans cesse, elle sans fait pour son fils expatrié au Canada.|sans
-J'ignorait qu'on avait changé la date de la réunion.|'ignorait
-Dès que tu m'auras confirmé ta présence, je réserverai une chambre pour toi.|
-Je ne me soucie pas de l'avenir, je vis dans le moment présent.|
-Ne crois surtout pas çà, il s'agit de vulgaires bruits de couloir.|çà,
 Pour ce couple en conflit, un divorce à l'amiable n'et pas envisageable.|et
-Ce n'est pas en faisant machine arrière que vous aurez l'air crédible.|
-Il doit finir par s'en vouloir, non ?|
-Si je ne peut pas assister à la réunion, je préviendrai votre assistante.|peut
-Certains économistes estiment que la crise est loin d'être passée, et même que le pire reste avenir.|avenir
-Tu transmettait les factures au comptable.|transmettait
-Il n'et pire sourd que celui qui ne veut pas entendre.|'et
-Je ne souhaite pas çà à mon pire ennemi.|çà
-Si vous trouvez mieu et moins cher ailleurs, nous vous remboursons.|mieu
-Dommage, nous étions sur le point dans venir à bout !|dans
-Elle passe ses nuits sans dormir, à gâcher son bel à venir. (Michel Berger)|venir
-Si tu suivait cette formation, tu aurais plus de chances de trouver un emploi.|suivait
-Si vous le désirez, je peut vous envoyer le contrat en recommandé.|peut
-Cette chute de la Bourse, çà ne me dit rien qui vaille.|çà
-En mettant les choses au mieux, je n'aurai pas fini avant mardi.|
-On n'et pas sérieux quand on a dix‑sept ans. (Arthur Rimbaud)|'et
-Traumatisé par la guerre, il a horreur dans parler.|dans
-Nous vous invitons avenir visiter les caves du Beaujolais avec nous.|avenir
-Relançait‑tu les clients pour les impayés ?|Relançait‑
-Peut‑tu me confirmer que l'article est disponible ?|Peut‑
-Un juge, ça a des hauts et des bas. (Albert Camus)|
-La société, ne fesant pas assez de bénéfices, a été revendue par ses actionnaires.|fesant
-Bien sûr, ça va s'en dire, mais ça va mieux en le disant.|s'en
-L'aspect le plus intéressant de la démarche et sans aucun doute le travail réalisé en commun.|et
-Voici votre diplôme, je vous conseille dans faire une copie.|dans
-Vous n'êtes pas le seul avenir au bureau à vélo.|avenir

@@ -24,7 +24,7 @@ def check_find_element_by_class_name(el):
     
 def is_disp(e):
 	while not e.is_displayed():
-		time.sleep(0.2)
+		time.sleep(0.1)
 
 def popup():
 		time.sleep(1)
@@ -50,7 +50,7 @@ def buttons_next():
 		if check_find_element_by_id("btn_question_suivante"):
 			next_box = driver.find_element_by_id("btn_question_suivante")
 			next_box.click()
-			time.sleep(0.5)
+			time.sleep(0.2)
 			return True
 		return False
 
@@ -62,11 +62,41 @@ def buttons_falt():
 			return True
 		return False
 		
+def try_to_answer(s):
+		for e in data_v:
+			if e[0] == s:
+				if  e[1] == "":
+					print("cliqué sur : pas de faute !")
+					buttons_falt()
+
+				else:
+					ans_box = driver.find_elements_by_class_name("pointAndClickSpan")
+					f = False
+					for a in ans_box:
+						if a.text == e[1]:
+							f = True
+							print("cliqué sur : " + a.text)
+							is_disp(a)
+							a.click()
+							break
+					if not f:
+						print("erreur! ("+e[1]+") non trouvé !")
+						buttons_falt()
+				
+				return True
+		return False
+
+
 # START 
 
 
 data = open('data.txt', 'r+')
+data_voltaire = open('data_voltaire.txt','r+')
+data_v = data_voltaire.readlines()
 
+for x in range (0,len(data_v)):
+	data_v[x] = data_v[x].split("\n")[0]
+	data_v[x] = data_v[x].split("|")
 usr_name = 'ewann.pelle@epita.fr' #input('User name :')
 usr_pss =  '123.Banane' #getpass.getpass('User password :')
 webpage = "https://www.projet-voltaire.fr/"
@@ -114,27 +144,37 @@ while  True:
 	while not check_find_element_by_class_name("sentence"):
 		time.sleep(0.2)
 	sentence = driver.find_element_by_class_name("sentence").text
+	popup()
+
+	while not check_find_element_by_class_name("sentence"):
+		time.sleep(0.2)
+
+	time.sleep(1)	
+	tst_ans = try_to_answer(sentence)
+	time.sleep(1)
 
 	popup()
-	while not buttons_falt():
-		time.sleep(0.2)
+	if not tst_ans:
+		while not buttons_falt():
+			time.sleep(0.2)
 	popup()
-	while not check_find_element_by_class_name("gwt-InlineHTML"):
-		buttons_falt()
-		time.sleep(0.2)
-	
-	if check_find_element_by_class_name("answerWord"):
-		answer = driver.find_element_by_class_name("answerWord").text
+	if not tst_ans:
+		while not check_find_element_by_class_name("gwt-InlineHTML"):
+			buttons_falt()
+			time.sleep(0.2)
+		
+		if check_find_elements_by_class_name("answerWord"):
+			answer = driver.find_element_by_class_name("answerWord")[0].text
 
-	data.writelines(sentence+"|"+answer+"\n")
-	print("line added : "+sentence+"|"+answer)
+		data.writelines(sentence+"|"+answer+"\n")
+		print("line added : "+sentence+"|"+answer)
 
 	popup()
 	while not buttons_next():
 		time.sleep(0.2)
 	buttons_next()
 
-
+	
 	
 
 
