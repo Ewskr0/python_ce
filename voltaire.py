@@ -50,7 +50,7 @@ def buttons_next():
 		if check_find_element_by_id("btn_question_suivante"):
 			next_box = driver.find_element_by_id("btn_question_suivante")
 			next_box.click()
-			time.sleep(0.2)
+			time.sleep(0.1)
 			return True
 		return False
 
@@ -58,11 +58,12 @@ def buttons_falt():
 		if check_find_element_by_id("btn_pas_de_faute"):
 			fault_box = driver.find_element_by_id("btn_pas_de_faute")
 			fault_box.click()
-			time.sleep(0.2)
+			time.sleep(0.)
 			return True
 		return False
 		
 def try_to_answer(s):
+		time.sleep(0.2)
 		for e in data_v:
 			if e[0] == s:
 				if  e[1] == "":
@@ -77,12 +78,15 @@ def try_to_answer(s):
 							f = True
 							print("cliqué sur : " + a.text)
 							is_disp(a)
+							time.sleep(0.5)
 							a.click()
-							break
+							time.sleep(0.2)
+							return True
 					if not f:
 						print("erreur! ("+e[1]+") non trouvé !")
+						time.sleep(0.2)
 						buttons_falt()
-				
+				time.sleep(0.2)
 				return True
 		return False
 
@@ -97,6 +101,7 @@ data_v = data_voltaire.readlines()
 for x in range (0,len(data_v)):
 	data_v[x] = data_v[x].split("\n")[0]
 	data_v[x] = data_v[x].split("|")
+
 usr_name = 'ewann.pelle@epita.fr' #input('User name :')
 usr_pss =  '123.Banane' #getpass.getpass('User password :')
 webpage = "https://www.projet-voltaire.fr/"
@@ -133,45 +138,45 @@ while not check_find_element_by_id("activityCellDiv_1"):
 	time.sleep(0.5)
 
 print(driver.current_url)
-activity_box = driver.find_element_by_id("activityCellDiv_1")
+activity_box = driver.find_element_by_id("activityCellDiv_3")
 activity_box.click()
 
 
 while  True:
 	present = False
 	answer =""
+
 	popup()
 	while not check_find_element_by_class_name("sentence"):
-		time.sleep(0.2)
+		time.sleep(0.1)
 	sentence = driver.find_element_by_class_name("sentence").text
 	popup()
 
 	while not check_find_element_by_class_name("sentence"):
-		time.sleep(0.2)
-
-	time.sleep(1)	
+		time.sleep(0.1)
+	
 	tst_ans = try_to_answer(sentence)
-	time.sleep(1)
 
 	popup()
 	if not tst_ans:
 		while not buttons_falt():
-			time.sleep(0.2)
+			time.sleep(0.1)
 	popup()
 	if not tst_ans:
 		while not check_find_element_by_class_name("gwt-InlineHTML"):
 			buttons_falt()
-			time.sleep(0.2)
+			time.sleep(0.1)
 		
 		if check_find_element_by_class_name("answerWord"):
-			answer = driver.find_elements_by_class_name("answerWord")[0].text
+			answer = driver.find_elements_by_class_name("answerWord")
+			answer = answer[0].text
 
 		data.writelines(sentence+"|"+answer+"\n")
 		print("line added : "+sentence+"|"+answer)
 
 	popup()
 	while not buttons_next():
-		time.sleep(0.2)
+		time.sleep(0.1)
 	buttons_next()
 
 	
