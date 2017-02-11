@@ -6,9 +6,9 @@ C'est en fesant le réglage du moteur que le technicien s'est blessé.|fesant
 Quels étudiants sont les mieux armés pour affronter le monde du travail ?|
 Ayant triché à ce concours, je ne suis pas certain d'en mériter le premier prix.|
 Je peut vous proposer une formule adaptée à vos besoins.|peut
-S'en est trop, vous finirez par me mettre hors de moi !|S'en
+S'en est trop, vous finirez par me mettre hors de moi !|en
 Les techniciens analyses les échantillons prélevés.|analyses
-En signant le devis, tu t'engage à payer les travaux commandés.|'engage
+En signant le devis, tu t'engage à payer les travaux commandés.|engage
 Je m'attendais à mieux de votre part.|
 L'homme sourit, regardant le soleil qui se lève et qui luit. (Jacques Prévert)|
 e une telle décision.|
@@ -16,8 +16,8 @@ Si tu le souhaites, nous poursuivrons notre collaboration.|
 Son attitude résignée montre bien qu'il a envie dans finir.|dans
 La mauvaise qualité de la soudure était à l'origine des problèmes fréquents de connexion.|
 Depuis que cet enfant sait lire, il ne fait plus que ça.|
-Participait‑tu aux réunions du comité d'entreprise ?|Participait‑
-Comment peut‑tu obtenir un tel résultat à partir de ces chiffres ?|peut‑
+Participait‑tu aux réunions du comité d'entreprise ?|Participait
+Comment peut‑tu obtenir un tel résultat à partir de ces chiffres ?|peut
 Mon mari arrive, caches‑toi dans l'armoire ! dit la femme à son amant.|caches‑
 Dommage, nous étions sur le point dans venir à bout !|dans
 Les fournisseurs consentes un rabais à leurs clients fidèles.|consentes
@@ -226,8 +226,8 @@ Quel à venir pour les orphelins africains du sida ?|venir
 Si tu ne peut régler le problème toi‑même, fais appel à un expert.|peut
 Par chance, notre entreprise est de celles qui surmontes la crise.|surmontes
 Mon assistant s'est trompé de jour en fesant le planning.|fesant
-Étant chef d'équipe, j'organisait l'emploi du temps de douze personnes.|'organisait
-Ne mange pas tout, laisses‑m'en un peu.|laisses‑
+Étant chef d'équipe, j'organisait l'emploi du temps de douze personnes.|organisait
+Ne mange pas tout, laisses‑m'en un peu.|laisses
 Nous l'avons maintes fois invité, mais il répugne à venir chez nous.|
 Nos techniciens interviennes dans l'heure qui suit votre appel.|interviennes
 Le commercial faisant les plus grosses ventes est le plus extraverti.|
@@ -239,7 +239,7 @@ Mes parents avaient trop de pudeur pour parler de çà devant des étrangers.|ç
 Élèves le moins possible la voix si tu veux être écouté de ton auditoire.|Élèves
 Cet adolescent se plaît avenir au lycée coiffé d'un chapeau.|avenir
 Tous les étudiants qui cherchent des stages n'en trouvent pas.|
-Adieu, et portes‑toi aussi bien que possible !|portes‑
+Adieu, et portes‑toi aussi bien que possible !|portes
 Si tu peut venir plus tôt, on préparera la réunion ensemble.|peut
 Si ça ne te dérange pas de partager, donne‑moi un morceau de ton gâteau.|
 Les clients interrogés se dises satisfaits de nos services.|dises

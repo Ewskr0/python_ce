@@ -163,8 +163,8 @@ while  True:
 			buttons_falt()
 			time.sleep(0.2)
 		
-		if check_find_elements_by_class_name("answerWord"):
-			answer = driver.find_element_by_class_name("answerWord")[0].text
+		if check_find_element_by_class_name("answerWord"):
+			answer = driver.find_elements_by_class_name("answerWord")[0].text
 
 		data.writelines(sentence+"|"+answer+"\n")
 		print("line added : "+sentence+"|"+answer)
